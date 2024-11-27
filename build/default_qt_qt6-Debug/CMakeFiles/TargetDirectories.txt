@@ -1,0 +1,8 @@
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/UpperTester.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/edit_cache.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/list_install_components.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/install.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/install/local.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/install/strip.dir
+C:/Users/hollow/Desktop/xiaomi/UpperTester/build/default_qt_qt6-Debug/CMakeFiles/UpperTester_autogen.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\UpperTester.dir/objects.a
+D:\Qt6.8\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\UpperTester.dir/objects.a @CMakeFiles\UpperTester.dir\objects1.rsp
+D:\Qt6.8\Tools\mingw1310_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\UpperTester.dir/objects.a -Wl,--no-whole-archive -o UpperTester.exe -Wl,--out-implib,libUpperTester.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UpperTester.dir\linkLibs.rsp
